@@ -35,7 +35,7 @@ This project performs LDA topics modeling based on reddit submissions and commen
 ![alt text](https://github.com/Freiheit77/COVID-19-Topics-Model/blob/master/Screenshot%202020-04-15%20at%2012.53.52%20AM.png)
 
 ## Recommendation 
-Based on the analysis of COVID-19 related discussions in Reddit community, the following suggestions are proposed to Reddit executives to take social responsibility, make contributions to COVID-19, and improve brand image.
+Based on the analysis of COVID-19 related discussions in Reddit community, the following suggestions are proposed to Reddit executives to take social responsibility, make contributions to COVID-19, and improve brand image by increaseing public awareness to COVID-19.
 
 From the within-community perspective: 
 
