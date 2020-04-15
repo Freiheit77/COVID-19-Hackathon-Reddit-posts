@@ -2,7 +2,7 @@
 
 ## Objective: 
 
-This project performs LDA topics modeling based on reddit submissions and comments to see what COVID-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
+This project performs LDA topics modeling based on reddit submissions and comments to see what COVID-19 related topics are the most popular on Reddit and what Reddit executives could do to bring real social impact under the prevalence of coronvirus. The Annotated pitch deck (COVID19 Challenge Final.pptx) is attached for reference. 
 
 
 ## Dataset: 
