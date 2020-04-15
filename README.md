@@ -1,8 +1,8 @@
-# COVID-19 Challenge Topics Modelling on Reddit texts
+# COVID-19 Challenge Topics Modeling on Reddit texts
 
 ## Objective: 
 
-This project performs LDA topics modelling based on reddit submissions and comments to see what COVID-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
+This project performs LDA topics modeling based on reddit submissions and comments to see what COVID-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
 
 
 ## Dataset: 
