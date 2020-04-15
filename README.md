@@ -6,7 +6,7 @@ This project performs LDA topics modelling based on reddit submissions and comme
 
 
 ## Dataset: 
-1. Collection Method: Reddit API 
+1. Data Collection Method: Pushshift API for Reddit
 2. Data Format: csv
 3. Data Type: mainly texts 
 4. Timeframe: March 1st, 2020 - April 11th, 2020
