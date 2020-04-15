@@ -11,9 +11,12 @@ This project performs LDA topics modelling based on reddit submissions and comme
 3. Data Type: mainly texts 
 4. Timeframe: March 1st, 2020 - April 11th, 2020
 5. Data: 
-  - redsub.csv: 566951 submissions from Reddit 
-  - redcom.csv: 1069748 comments from Reddit
+  - [redsub.csv](https://drive.google.com/drive/folders/1xnHpzweXw1APN3v_kOZHX9CyAS1tt5zs?usp=sharing): 566951 submissions from Reddit 
+  - [redcom.csv](https://drive.google.com/drive/folders/1xnHpzweXw1APN3v_kOZHX9CyAS1tt5zs?usp=sharing): 1069748 comments from Reddit
   - subred_covid_submis.csv: 18965 submissions from Reddit r/Coronvirus subreddit
+6. Features:
+  - redsub.csv / subred_covid_submis.csv: PostID, Title, Url, Author, Postdate, Score, TotalComments, Permalink (subreddit), and Flair
+  - redcom.csv: CommentID, Author, Comment, Score, PublishDate, Subreddit, Permalink
 
 ## Machine learning techniques: 
 1. Latent Dirichlet Allocation (LDA) Topics Model is applied to clutser texts into distinct categories
