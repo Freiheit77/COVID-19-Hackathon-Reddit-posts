@@ -16,7 +16,8 @@ This project performs LDA topics modelling based on reddit submissions and comme
   - subred_covid_submis.csv: 18965 submissions from Reddit r/Coronvirus subreddit
 
 ## Machine learning techniques: 
-Latent Dirichlet Allocation (LDA) Topics Modelling
+1. Latent Dirichlet Allocation (LDA) Topics Model is applied to clutser texts into distinct categories
+2. The code is included in Reddit_TopicsModel.ipynb
 
 ## Results: 
 1. submission_vis: topics modelling interactive visualization based on data from redsub.csv
