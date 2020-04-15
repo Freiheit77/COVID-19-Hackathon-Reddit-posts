@@ -33,3 +33,16 @@ This project performs LDA topics modeling based on reddit submissions and commen
 [comment topics visualization](https://freiheit77.github.io/COVID-19-Topics-Modelling/comment_vis.html)
 4. Topics summarized: 
 ![alt text](https://github.com/Freiheit77/COVID-19-Topics-Model/blob/master/Screenshot%202020-04-15%20at%2012.53.52%20AM.png)
+
+## Recommendation 
+Based on the analysis of COVID-19 related discussions in Reddit community, the following suggestions are proposed to Reddit executives to take social responsibility, make contributions to COVID-19, and improve brand image.
+
+From the within-community perspective: 
+    1) Reddit should increase the number and exposure of prevention discussions through intervention of moderators (similar to community manager who are responsible for maintenance).
+    2) Reddit could create “prevention” and “mutual help” post type (flair) and encourage discussions within these types. 
+
+From the community-wide perspective:
+    1) Encourage more moderators from various communities to post and pin covid-related prevention topics in their communities.
+    2) For new users, Reddit could automatically subscribe them to COVID-19 related communities.     
+    3) Reddit could put more prevention-related topics on trending today or Popular posts to increase COVID-19 news exposure.
+
