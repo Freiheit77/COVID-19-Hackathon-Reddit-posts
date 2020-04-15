@@ -19,7 +19,7 @@ This project performs LDA topics modeling based on reddit submissions and commen
   - redcom.csv: CommentID, Author, Comment, Score, PublishDate, Subreddit, Permalink
 
 ## Machine learning techniques: 
-1. Latent Dirichlet Allocation (LDA) Topics Model is applied to clutser texts into distinct categories
+1. It is assumed that the semantics of our document are actually being governed by some hidden, or “latent,” variables that we are not observing, so Latent Dirichlet Allocation (LDA) Topics Model is applied to clutser texts into distinct categories
 2. The code is included in Reddit_TopicsModel.ipynb
 
 ## Results: 
