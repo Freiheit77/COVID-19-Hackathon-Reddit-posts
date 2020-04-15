@@ -30,4 +30,4 @@ This project performs LDA topics modelling based on reddit submissions and comme
 3. comment_vis.html: topics modelling interactive visualization based on data from redcom.csv
 [comment topics visualization](https://freiheit77.github.io/COVID-19-Topics-Modelling/comment_vis.html#topic=0&lambda=1&term=)
 4. Topics summarized: 
-![alt text](https://github.com/zxuannn/covidchallenge_topicsmodelling/blob/master/Screenshot%202020-04-14%20at%209.53.52%20PM.png)
+![alt text](https://github.com/Freiheit77/COVID-19-Topics-Model/blob/master/Screenshot%202020-04-15%20at%2012.53.52%20AM.png)
