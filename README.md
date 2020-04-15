@@ -2,14 +2,14 @@
 
 ## Objective: 
 
-This project performs LDA topics modelling based on reddit submissions and comments to see what covid-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
+This project performs LDA topics modelling based on reddit submissions and comments to see what COVID-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
 
 
 ## Dataset: 
 1. Collection Method: Reddit API 
 2. Data Format: csv
 3. Data Type: mainly texts 
-4. Timeframe: March 1st, 2020 to April 11th, 2020
+4. Timeframe: March 1st, 2020 - April 11th, 2020
 5. Data: 
   - redsub.csv: 566951 submissions from Reddit 
   - redcom.csv: 1069748 comments from Reddit
