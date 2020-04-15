@@ -21,6 +21,7 @@ This project performs LDA topics modeling based on reddit submissions and commen
 ## Machine learning techniques: 
 1. It is assumed that the semantics of our document are actually being governed by some hidden, or “latent,” variables that we are not observing. Several Machine Learning methods are compared in the following table. Considering interpretability and accuracy, the Latent Dirichlet Allocation (LDA) Topics Model is used to clutser texts into distinct categories.
 2. The code is included in Reddit_TopicsModel.ipynb
+
 ![alt text](https://github.com/Freiheit77/COVID-19-Topics-Model/blob/master/ML%20comparison%20for%20topics%20modeling.png)
 
 ## Results: 
