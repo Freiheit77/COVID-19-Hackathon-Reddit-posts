@@ -1,9 +1,11 @@
 ## COVID-19 Challenge Topics Modelling on Reddit texts
 
-#Objective: 
+# Objective: 
+
 This project performs LDA topics modelling based on reddit submissions and comments to see what covid-19 related topics are the most popular and what we could do to bring real social impact under the prevalence of coronvirus. 
 
-#Dataset: 
+
+# Dataset: 
 1. Collection Method: Reddit API 
 2. Data Format: csv
 3. Data Type: mainly texts 
@@ -13,9 +15,9 @@ This project performs LDA topics modelling based on reddit submissions and comme
   - redcom.csv: 1069748 comments from Reddit
   - subred_covid_submis.csv: 18965 submissions from Reddit r/Coronvirus subreddit
 
-#Machine learning techniques: Latent Dirichlet Allocation (LDA) Topics Modelling 
+# Machine learning techniques: Latent Dirichlet Allocation (LDA) Topics Modelling 
 
-#Results: 
+# Results: 
 1. submission_vis: topics modelling interactive visualization based on data from redsub.csv
 2. covid_sub_vis.html: topics modelling interactive visualization based on data from subred_covid_submis.csv
 3. Topics summarized: 
