@@ -19,8 +19,8 @@ This project performs LDA topics modelling based on reddit submissions and comme
 
 ## Results: 
 1. submission_vis: topics modelling interactive visualization based on data from redsub.csv
-[submission topics visualization](https://zxuannn.github.io/COVID-19-Topics-Modelling/submission_vis.html#topic=0&lambda=1&term=)
+[submission topics visualization](https://freiheit77.github.io/COVID-19-Topics-Modelling/submission_vis.html#topic=0&lambda=1&term=)
 2. covid_sub_vis.html: topics modelling interactive visualization based on data from subred_covid_submis.csv
-[r/Coronvirus topics visualization](https://zxuannn.github.io/COVID-19-Topics-Modelling/covid_sub_vis.html#topic=0&lambda=1&term=)
+[r/Coronvirus topics visualization](https://freiheit77.github.io/COVID-19-Topics-Modelling/covid_sub_vis.html#topic=0&lambda=1&term=)
 3. Topics summarized: 
 ![alt text](https://github.com/zxuannn/covidchallenge_topicsmodelling/blob/master/Screenshot%202020-04-14%20at%209.53.52%20PM.png)
